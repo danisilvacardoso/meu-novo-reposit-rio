@@ -1,0 +1,17 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        div {
+            width: 200px;
+            height: 100px;
+            background-color: blueviolet;
+            margin: 70px 60px;
+            text-underline-position: auto;
+        }
+        section {
+            width: 400px;
+            height: 100px;
+            background-color: aqua;
+            margin: 20px 60px;
+        }
